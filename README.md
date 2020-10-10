@@ -10,7 +10,8 @@ Hébergement HostPapa
 https://www.hostpapa.ca/dashboard/
  
 Client ID: 515666
-password: Ycm7&u6RazxS
+password: Ycm7&u6RazxS (old)
+          ZC5D#!nAtnVWteM
 
 http://soutiencannabis.com/wp-login.php & CPANEL
  
