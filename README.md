@@ -23,3 +23,11 @@ http://soutiencannabis.com/wp-login.php & CPANEL
 WordPress Username: souti347
  
 WordPress Password*: CieMDj1BP6j2
+
+EMAIL
+
+soutiencannabis.com/webmail
+
+info@soutiencannabis.com
+
+pass: 0#Jczr&5dm^h
