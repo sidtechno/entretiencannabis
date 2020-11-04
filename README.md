@@ -3,6 +3,11 @@ WORDPRESS
 user: admincannabis
 pass: hLVFiG[T
 
+WORDPRESS KARINE :
+
+user: KarineAdmin
+pass: K@r1neAdm1n4506522333
+
 disable site pwd : C@nnabis
 
 Hébergement HostPapa
